@@ -1,0 +1,9 @@
+#register{
+	border: 2px solid blue;
+	background-color: orange;
+	position: absolute;			/* position 속성이 absolute로 지정되야 top, left 속성이 적용된다. */
+	top: 200px;
+	left: 500px;
+	display: none;				/* id 속성이 register로 지정된 요소를 화면에 표시하지 않는다. */
+	
+	}
